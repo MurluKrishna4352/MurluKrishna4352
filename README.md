@@ -2,7 +2,7 @@
 - 👀 I’m interested in PYTHON, ML, CV
 - 🌱 I’m currently learning CV
 - 💞️ I’m looking to collaborate on projects and internships
-- 📫 How to reach me 
+
 
 <!---
 MurluKrishna4352/MurluKrishna4352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
