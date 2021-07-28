@@ -2,7 +2,7 @@
 - 👀 I’m interested in PYTHON, ML, CV
 - 🌱 I’m currently learning CV
 - 💞️ I’m looking to collaborate on projects and internships
-- 📫 reach me on linked in Linked in  
+- 📫 reach me on linked in Linked in: https://www.linkedin.com/in/krishna-nagpal-110005218/
 
 
 <!---
