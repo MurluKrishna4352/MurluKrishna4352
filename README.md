@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🗣 Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVardhan-AI&layout=compact&theme=dark" alt="Yash Vardhan's Top Langs" height="200">
+
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 
