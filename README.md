@@ -46,11 +46,3 @@ You can click the Preview link to take a look at your changes.
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-22A6F2?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
-
-# 📈 Stats
-
-<p align="center">
-    <div style="display: inline-block;margin: auto;">
-        <a href="https://github.com/MurluKrishna4352">
-            
-</p>
