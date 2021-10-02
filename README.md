@@ -11,11 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <table>
-  <tr>
-    <th width="50%">
-
-![](hello-there-general-kenobi.gif)
-<th>
 
 # 🔗 Socials
 [![GitHub Krishna](https://img.shields.io/github/followers/YashVardhan-AI?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/MurluKrishna4352)
@@ -61,10 +56,4 @@ You can click the Preview link to take a look at your changes.
             
         </a>
     </div>
-</p>
-
-<p align="center">
-    <a href="https://github.com/MurluKrishna4352">
-    	
-    </a>
 </p>
