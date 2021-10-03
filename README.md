@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <table>
 
 # 🔗 Socials
-![GitHub followers](https://img.shields.io/github/followers/MurluKrishna4352?label=Follow&logoColor=yellow&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/MurluKrishna4352?label=Follow&logoColor=yellow&style=for-the-badge)](https://github.com/MurluKrishna4352)
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:python.gamesaker@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-nagpal-110005218/)
 [![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/krishna2005)
