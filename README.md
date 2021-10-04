@@ -11,7 +11,7 @@
 👀 I’m interested in PYTHON, ML, CV <br>
 🌱 I’m currently learning CV <br>
 💞️ I’m looking to collaborate on projects and internships <br>
-📫 Reach me through my socials ---------------------→d
+📫 Reach me through my socials ---------------------→
     </th>
 <!-- - 💞️ I’m looking to collaborate on ...  -->
 <!---
