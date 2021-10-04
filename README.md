@@ -1,15 +1,24 @@
-- 👋 Hi, I’m @MurluKrishna4352
-- 👀 I’m interested in PYTHON, ML, CV
-- 🌱 I’m currently learning CV
-- 💞️ I’m looking to collaborate on projects and internships
+<table>
+  <tr>
+    <th width="50%">
 
+<!-- ## Hello friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
+<!-- ![Hello Friends](https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif) -->
+<img src="https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" align="center" alt="Hello there (baby Yoda)">
 
+<br>
+👋 Hi, I’m @MurluKrishna4352 <br>
+👀 I’m interested in PYTHON, ML, CV <br>
+🌱 I’m currently learning CV <br>
+💞️ I’m looking to collaborate on projects and internships <br>
+📫 Reach me through my socials ---------------------→d
+    </th>
+<!-- - 💞️ I’m looking to collaborate on ...  -->
 <!---
 MurluKrishna4352/MurluKrishna4352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<table>
+<th>
 
 # 🔗 Socials
 [![GitHub followers](https://img.shields.io/github/followers/MurluKrishna4352?label=Follow&logoColor=yellow&style=for-the-badge)](https://github.com/MurluKrishna4352)
@@ -19,12 +28,10 @@ You can click the Preview link to take a look at your changes.
 [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@KRISHNANAGPAL5)
  
 
+
 </th>
 </tr>
 </table>
-
-
-
 
 ## 🗣 Languages
 
@@ -33,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## ⚙️ Frameworks
+![OpenCv](https://img.shields.io/badge/OpenCv-004d00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
