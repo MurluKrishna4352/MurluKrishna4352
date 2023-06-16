@@ -7,7 +7,7 @@
 <img src="https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" align="center" alt="Hello there (baby Yoda)">
 
 <br>
-👋 Hi, I’m @MurluKrishna4352 <br>
+👋 Hi, I’m Krishna Nagpal <br>
 👀 I’m interested in PYTHON, ML, CV <br>
 🌱 I’m currently learning CV <br>
 💞️ I’m looking to collaborate on projects and internships <br>
@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-Primary_Language-3776AB?style=for-the-badge&logo=python)]
 
 
 ## ⚙️ Frameworks
