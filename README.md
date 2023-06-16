@@ -62,8 +62,8 @@ You can click the Preview link to take a look at your changes.
         <a href="https://github.com/MurluKrishna4352">
             <img src="https://github-readme-stats.vercel.app/api?username=MurluKrishna4352&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Krishna's Github Stats" height="160">
     	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MurluKrishna4352&theme=onedark&count_private=true&theme=gotham" height=160>
-            [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurluKrishna4352&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/MurluKrishna4352) 
-             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurluKrishna4352&layout=compact&theme=dark)](https://github.com/MurluKrishna4352) 
+<!--             [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurluKrishna4352&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/MurluKrishna4352)  -->
+<!--              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurluKrishna4352&layout=compact&theme=dark)](https://github.com/MurluKrishna4352)  -->
         </a>
     </div>
 </p>
